@@ -1,0 +1,7 @@
+.list {
+    background-color: yellow;
+    width: 18.75rem;
+    height: 18.75rem;
+    padding: 1.875rem;
+    border: .0625rem solid black;
+}
